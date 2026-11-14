@@ -60,14 +60,14 @@ Each entry should stay bibliographic and transparent (title, author/publisher, l
 - **Status:** admitted (Nov 4, 2026)
 - **Summary:** These two volumes survey the inner life of Jewish Palestine in the time of Jesus: population and culture, the Sanhedrin and the high priests, the priesthood and the temple, and, in Volume 2, Pharisees and Sadducees, school and synagogue. Use them chiefly for institutions. Some of Schürer's views of the Pharisees are dated and sometimes negative, and should be balanced with Abrahams, Moore, and Montefiore in this catalogue. Volume 3 was not ingested.
 
-### The Legends of the Jews, Volumes I and IV
-- **Author:** Louis Ginzberg (1873–1953); Volume I translated from the German manuscript by Henrietta Szold (1860–1945). Project Gutenberg also credits Henrietta Szold and Paul Radin (1883–1959) as translators of Volume IV.
-- **Published:** Volume I, 1909 (Creation to Jacob); Volume IV, 1913 (Joshua to Esther). The Jewish Publication Society of America, Philadelphia. Volumes II and III were not ingested.
+### The Legends of the Jews, Volumes I–IV
+- **Author:** Louis Ginzberg (1873–1953); Volumes I and II translated from the German manuscript by Henrietta Szold (1860–1945). Volume III translated by Paul Radin (1883–1959). Project Gutenberg also credits Henrietta Szold and Paul Radin as translators of Volume IV.
+- **Published:** Volume I, 1909 (Creation to Jacob); Volume II, 1910 (Joseph to the Exodus); Volume III, 1911 (the Exodus to the Death of Moses); Volume IV, 1913 (Joshua to Esther). The Jewish Publication Society of America, Philadelphia.
 - **Language:** English
-- **Public-domain status:** Both volumes are public domain in the US (Project Gutenberg). Ginzberg died in 1953; Szold died in 1945. Because Gutenberg also credits Paul Radin (d. 1959) as a translator of Volume IV, that volume may not be free in the EU until 2030.
-- **Source:** [Volume I](https://www.gutenberg.org/ebooks/1493), [Volume IV](https://www.gutenberg.org/ebooks/2882) (Project Gutenberg)
-- **Status:** admitted (Nov 10, 2026)
-- **Summary:** Ginzberg gathered traditional rabbinic legends (aggadah) that retell the stories of biblical figures. These are the rabbis' legends, not the wording of the Hebrew Bible itself, and should be cited as legend, not as Scripture. Volume I runs from Creation to Jacob; Volume IV from Joshua to Esther. The collection helps Hebraic.ai show how the rabbis retold the biblical narrative in later Jewish tradition.
+- **Public-domain status:** All four volumes are public domain in the US (Project Gutenberg). Ginzberg died in 1953; Szold died in 1945. Because Volume III was translated by Paul Radin (d. 1959), and because Gutenberg also credits Paul Radin as a translator of Volume IV, those two volumes may not be free in the EU until 2030.
+- **Source:** [Volume I](https://www.gutenberg.org/ebooks/1493), [Volume II](https://www.gutenberg.org/ebooks/1494), [Volume III](https://www.gutenberg.org/ebooks/2881), [Volume IV](https://www.gutenberg.org/ebooks/2882) (Project Gutenberg)
+- **Status:** Volumes I and IV admitted (Nov 10, 2026); Volumes II and III admitted (Nov 14, 2026)
+- **Summary:** Ginzberg gathered traditional rabbinic legends (aggadah) that retell the stories of biblical figures. These are the rabbis' legends, not the wording of the Hebrew Bible itself, and should be cited as legend, not as Scripture. Volume I runs from Creation to Jacob; Volume II from Joseph to the Exodus; Volume III from the Exodus to the death of Moses; Volume IV from Joshua to Esther. The collection helps Hebraic.ai show how the rabbis retold the biblical narrative in later Jewish tradition.
 
 ### The Synoptic Gospels
 - **Author:** C. G. Montefiore (1858–1938)
