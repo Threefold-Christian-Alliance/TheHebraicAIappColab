@@ -86,3 +86,64 @@ Each entry should stay bibliographic and transparent (title, author/publisher, l
 - **Source:** [archive.org](https://archive.org/details/someaspectsofrab00sche)
 - **Status:** admitted (Nov 11, 2026)
 - **Summary:** Schechter, a leading Jewish scholar of rabbinic thought, sets out central ideas of the rabbis in plain English: the Kingdom of Heaven, the Law and the joy of the Law, the merit of the fathers, the evil inclination, and repentance. This is a Jewish work, not a Christian one. It helps Hebraic.ai explain these ideas from a classical Jewish source rather than from later Christian summaries.
+
+### Entendiendo las palabras difíciles de Jesús: Nuevas percepciones desde una perspectiva hebraica
+- **Author:** David Bivin and Roy Blizzard, Jr.
+- **Published:** Edición Revisada, 2023. Center for Judaic-Christian Studies (Centro de Estudios Judeocristianos), Dayton, Ohio (P.O. Box 293040, Dayton, OH 45429). The acknowledgments thank the Makor Foundation (Fundación Makor), which merged with the Center, and the Center, for publishing the book.
+- **Language:** Spanish
+- **Rights:** Used with permission of Bible Scholars
+- **Status:** admitted (Nov 19, 2026)
+- **Summary:** This is the Spanish revised edition of Bivin and Blizzard's study of the difficult sayings of Jesus in a Hebraic setting. It argues that the Synoptic Gospels rest on a Hebrew background, and it explains Hebrew idioms behind phrases such as "poor in spirit," "the kingdom of heaven," and "a good eye." Bible quotations in the book are from the Reina-Valera 1960 unless otherwise noted.
+
+### Mishnah and the Words of Jesus
+- **Author:** Roy B. Blizzard
+- **Published:** 2013. Bible Scholars, Inc., Austin, Texas. ISBN-13: 978-1492379058
+- **Language:** English
+- **Rights:** Used with permission of Bible Scholars
+- **Source:** [Bible Scholars](https://www.biblescholars.org)
+- **Status:** admitted (Nov 19, 2026)
+- **Summary:** Blizzard reads sayings of Jesus beside passages from the Mishnah, especially tractate Avot (the Chapters of the Fathers). The chapters treat tzedakah and righteousness, teaching, tithing and silence, the "good eye," and the will of the Father. This is the 2013 book; the later four-part website series of the same name was not cataloged separately.
+
+### Bible Scholars articles
+- **Publisher:** Bible Scholars, Inc., Austin, Texas ([biblescholars.org](https://www.biblescholars.org))
+- **Rights:** Used with permission of Bible Scholars
+- **Language:** English
+- **Status:** admitted (Nov 19, 2026)
+- **Summary:** Articles from the Bible Scholars website, ingested with the publisher's permission on 19 November 2026. Each item is recorded under its own author. The four-part website series *Mishnah and the Words of Jesus* is omitted here because that material is already covered by the 2013 book above. Weston W. Fields's review of *Understanding the Difficult Words of Jesus* was already in the library from an earlier document ingest and was not added a second time.
+
+**Dr. Roy B. Blizzard**
+- [A Parallel Account of Creation](https://biblescholars.org/articles/f/a-parallel-account-of-creation)
+- [The Book of Job](https://biblescholars.org/articles/f/the-book-of-job)
+- [The Cities Jesus Cursed](https://biblescholars.org/articles/f/the-cities-jesus-cursed)
+- [Foundations of Faith (Pt. 1)](https://biblescholars.org/articles/f/foundations-of-faith-pt-1)
+- [Foundations of Faith-Abraham and the Patriarchs (Pt. 2)](https://biblescholars.org/articles/f/foundations-of-faith-abraham-and-the-patriarchs-pt-2)
+- [Foundations of Faith-Moses, Sinai, and the Dwelling Place (Pt. 3)](https://biblescholars.org/articles/f/foundations-of-faith-moses-sinai-and-the-dwelling-place-pt-3)
+- [Heresies, Controversies, and Schisms in the Early Church (Part 1)](https://biblescholars.org/articles/f/heresies-controversies-and-schisms-in-the-early-church-part-1)
+- [Heresies, Controversies, and Schisms in the Early Church (Part 2)](https://biblescholars.org/articles/f/heresies-controversies-and-schisms-in-the-early-church-part-2)
+- [History of the Biblical Text: Biblical Chronology](https://biblescholars.org/articles/f/history-of-the-biblical-text-biblical-chronology)
+- [Jesus a Jew? Says Who?](https://biblescholars.org/articles/f/jesus-a-jew-says-who)
+- [Judaism](https://biblescholars.org/articles/f/judaism)
+- [Judaism- Part II](https://biblescholars.org/articles/f/judaism--part-ii)
+- [The Lucifer Myth](https://biblescholars.org/articles/f/the-lucifer-myth)
+- [The Nature of Law (Part 1)](https://biblescholars.org/articles/f/the-nature-of-law-part-1)
+- [No Time for Mediocrity](https://biblescholars.org/articles/f/no-time-for-mediocrity)
+- [Prophecy, Eschatology, and the Hebrew Mind](https://biblescholars.org/articles/f/prophecy-eschatology-and-the-hebrew-mind)
+- [Study Shows Jesus as Rabbi](https://biblescholars.org/articles/f/study-shows-jesus-as-rabbi) (with David Bivin)
+- [Who Is Jesus? (Part 2)](https://biblescholars.org/articles/f/who-is-jesus-part-2)
+
+**Brad H. Young**
+- [Giving Thanks — A Way of Life](https://biblescholars.org/articles/f/giving-thanks-%E2%80%94-a-way-of-life)
+- [Is Paul Against the Law?](https://biblescholars.org/articles/f/is-paul-against-the-law)
+- [Love, the Local Church and I Corinthians 13](https://biblescholars.org/articles/f/love-the-local-church-and-i-corinthians-13)
+
+**Rachel D. Levine**
+- [Happy New Year Times Four](https://biblescholars.org/articles/f/happy-new-year-times-four)
+- [The Lord's Prayer and the Amidah: A Comparative Analysis](https://biblescholars.org/articles/f/the-lords-prayer-and-the-amidah-a-comparative-analysis)
+- [Purim and Passover](https://biblescholars.org/articles/f/purim-and-passover)
+
+**Amihai Mazar**
+- [Jeroboam's Temple at Dan Discovered](https://biblescholars.org/articles/f/jeroboams-temple-at-dan-discovered)
+- [New Archaeological Attraction at Jerusalem](https://biblescholars.org/articles/f/new-archaeological-attraction-at-jerusalem)
+
+**David Flusser and Roy Blizzard**
+- [David Flusser on the Historical Jesus](https://biblescholars.org/articles/f/david-flusser-on-the-historical-jesus)
