@@ -86,3 +86,30 @@ Each entry should stay bibliographic and transparent (title, author/publisher, l
 - **Source:** [archive.org](https://archive.org/details/someaspectsofrab00sche)
 - **Status:** admitted (Nov 11, 2026)
 - **Summary:** Schechter, a leading Jewish scholar of rabbinic thought, sets out central ideas of the rabbis in plain English: the Kingdom of Heaven, the Law and the joy of the Law, the merit of the fathers, the evil inclination, and repentance. This is a Jewish work, not a Christian one. It helps Hebraic.ai explain these ideas from a classical Jewish source rather than from later Christian summaries.
+
+### The Jewish Sources of the Sermon on the Mount
+- **Author:** Gerald Friedlander (1871–1923)
+- **Published:** 1911. London: George Routledge & Sons, Limited; New York: The Bloch Publishing Co.
+- **Language:** English (with transliterated Hebrew and some Greek)
+- **Public-domain status:** Public domain in the US (published 1911, before 1931) and worldwide under life-plus-70 rules (Friedlander died in 1923). Open download on archive.org.
+- **Source:** [archive.org](https://archive.org/details/jewishsourcesofs0000gera) ([OCR text](https://archive.org/download/jewishsourcesofs0000gera/jewishsourcesofs0000gera_djvu.txt))
+- **Status:** admitted (Nov 26, 2026)
+- **Summary:** Friedlander works beatitude by beatitude and saying by saying through Matthew 5–7, setting each alongside parallels from the Hebrew Bible, the Talmud, the Midrash, and the Jewish prayer book—anticipating the comparative method later associated with Flusser and Young, and complementing Montefiore's *Rabbinic Literature and Gospel Teachings* already in this catalogue. Caveat: Friedlander wrote as a Jewish apologist and argues that Jesus' teaching was not original; Hebraic.ai should use this work for its Jewish textual parallels and not adopt its polemical verdict on originality.
+
+### The Poetry of Our Lord: An Examination of the Formal Elements of Hebrew Poetry in the Discourses of Jesus Christ
+- **Author:** C. F. Burney (1868–1925)
+- **Published:** 1925. Oxford: At the Clarendon Press (Humphrey Milford, Oxford University Press)
+- **Language:** English (with transliterated Aramaic and some Hebrew and Greek)
+- **Public-domain status:** Public domain in the US since January 1, 2021 (published 1925) and worldwide under life-plus-70 rules (Burney died in 1925).
+- **Source:** [archive.org](https://archive.org/details/poetryofourlorde0000cfbu) ([OCR text](https://archive.org/download/poetryofourlorde0000cfbu/poetryofourlorde0000cfbu_djvu.txt))
+- **Status:** admitted (Nov 26, 2026)
+- **Summary:** Burney examines the formal marks of Hebrew poetry in Jesus' recorded sayings across the Gospels—synonymous, antithetic, synthetic, and step parallelism, four-beat, three-beat, and *kina* rhythms, and the rhymes that emerge when the sayings are translated back into Galilean Aramaic. This is an early, focused treatment of the "Hebrew behind the Gospels" approach central to the Jerusalem School. Note: the English discussion and Aramaic transliterations are useful, while occasional Hebrew and Greek words in the OCR scan are garbled.
+
+### The Religion and Worship of the Synagogue: An Introduction to the Study of Judaism from the New Testament Period
+- **Authors:** W. O. E. Oesterley (1866–1950) and G. H. Box (1869–1933)
+- **Published:** Second and revised edition, 1911 (first edition 1907). London: Sir Isaac Pitman and Sons, Ltd.
+- **Language:** English (with transliterated Hebrew and some Greek)
+- **Public-domain status:** Public domain in the US (published 1911, before 1931); marked "not in copyright" on archive.org. Box died in 1933 and Oesterley in 1950, so the work is also out of copyright in the EU and UK under life-plus-70 rules (since 2021).
+- **Source:** [archive.org](https://archive.org/details/religionworshipo00oestuoft) ([OCR text](https://archive.org/download/religionworshipo00oestuoft/religionworshipo00oestuoft_djvu.txt))
+- **Status:** admitted (Nov 26, 2026)
+- **Summary:** A comprehensive overview of synagogue faith and worship from the New Testament period onward: the Shema, the Amidah (Eighteen Benedictions), Sabbath observance, the festivals, synagogue Scripture reading (Parashah and Haphtarah), the Messianic hope, and an appendix listing and summarizing the tractates of the Mishnah and Talmuds. It fills a gap in the Hebraic.ai library for users asking about first-century and rabbinic synagogue liturgy and practice.
